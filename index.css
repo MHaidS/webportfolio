@@ -1,0 +1,15 @@
+#banner{
+	background-image: url(./photos/IMG_0466.JPG);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Special Elite', cursive;
+}
+
+#navbarSupportedContent, #projects{
+	font-family: 'Special Elite', cursive;
+}
+
+div>div>img{
+	height: 90px;
+	width: 90px;
+}
